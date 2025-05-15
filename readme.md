@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Repository Structure
-    ├── reports/ # Generated policy-style text files
+    ├── reports/ # Generated text files
 
     │ ├── soil_health_ea.txt
 
