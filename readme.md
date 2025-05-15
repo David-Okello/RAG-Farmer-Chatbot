@@ -46,7 +46,7 @@
    git clone https://github.com/David-Okello/RAG-Farmer-Chatbot
    cd RAG-Farmer-Chatbot
    python -m venv .venv
-   source .venv/bin/activate   # (or .\.venv\Scripts\Activate.ps1 on Windows)
+   source .venv/bin/activate   # (or .\.venv\Scripts\Activate on Windows)
     ```
 2. **Install Dependencies**
     - pip install --upgrade pip
